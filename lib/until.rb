@@ -7,4 +7,4 @@ Until levitation_force == 10
 puts "Wingardium Leviosa"
   Levitation_force += 1
 end
-end 
+end
