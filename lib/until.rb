@@ -3,7 +3,7 @@ def using_until
         #your code here
 
 end
-
-puts "wingardium Leviosa" == 10
+Until levitation_force == 10
+puts "Wingardium Leviosa"
   Levitation_force += 1
 end
