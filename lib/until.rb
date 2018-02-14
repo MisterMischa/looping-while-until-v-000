@@ -4,3 +4,7 @@ def using_until
     
 end
 
+puts "wingardium Leviosa" == 10
+  Levitation_force += 1
+end
+
